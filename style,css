@@ -1,0 +1,10 @@
+{
+brackound-color: White
+color: white 
+marguin-bottom: 100px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    border-bottom: solid 2px black
+}
